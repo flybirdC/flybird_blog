@@ -1,0 +1,12 @@
+CentOS:
+(1)new a database named "db_beego"
+(2)copy the db_beego file to /var/lib/mysql/db_beego
+
+
+windows:
+include the db_beego.sql to db
+
+rootuser:
+name : admin
+password : 123456
+

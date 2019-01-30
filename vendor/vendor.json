@@ -1,0 +1,136 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "955wRZ7tlcmpYbGUZ3mkMbfq4Kc=",
+			"path": "github.com/astaxie/beego",
+			"revision": "80aabdd372b36b65e6e56b200cfd4ebcb444e670",
+			"revisionTime": "2019-01-08T15:54:40Z"
+		},
+		{
+			"checksumSHA1": "JvDySyr+rfWQ9sp+ciwxxWywea0=",
+			"path": "github.com/astaxie/beego/config",
+			"revision": "80aabdd372b36b65e6e56b200cfd4ebcb444e670",
+			"revisionTime": "2019-01-08T15:54:40Z"
+		},
+		{
+			"checksumSHA1": "oa4Dm7Dsh7TtNRdmhoTxr08Xakg=",
+			"path": "github.com/astaxie/beego/context",
+			"revision": "80aabdd372b36b65e6e56b200cfd4ebcb444e670",
+			"revisionTime": "2019-01-08T15:54:40Z"
+		},
+		{
+			"checksumSHA1": "iHY0XMPlj5EfCxMN4NEmvBgdhDM=",
+			"path": "github.com/astaxie/beego/context/param",
+			"revision": "80aabdd372b36b65e6e56b200cfd4ebcb444e670",
+			"revisionTime": "2019-01-08T15:54:40Z"
+		},
+		{
+			"checksumSHA1": "vISEKPeQ1tQ5tWnLe/b2t2RZ67s=",
+			"path": "github.com/astaxie/beego/grace",
+			"revision": "80aabdd372b36b65e6e56b200cfd4ebcb444e670",
+			"revisionTime": "2019-01-08T15:54:40Z"
+		},
+		{
+			"checksumSHA1": "OksAzF6VvpfTlte99lpVNV+iSnY=",
+			"path": "github.com/astaxie/beego/logs",
+			"revision": "80aabdd372b36b65e6e56b200cfd4ebcb444e670",
+			"revisionTime": "2019-01-08T15:54:40Z"
+		},
+		{
+			"checksumSHA1": "eUDVYnw8v2YUh3ktL+bIQOIyluc=",
+			"path": "github.com/astaxie/beego/orm",
+			"revision": "80aabdd372b36b65e6e56b200cfd4ebcb444e670",
+			"revisionTime": "2019-01-08T15:54:40Z"
+		},
+		{
+			"checksumSHA1": "CeN6YeH3kCkiGK0n+Gpij5zJKfs=",
+			"path": "github.com/astaxie/beego/session",
+			"revision": "80aabdd372b36b65e6e56b200cfd4ebcb444e670",
+			"revisionTime": "2019-01-08T15:54:40Z"
+		},
+		{
+			"checksumSHA1": "UGYM5ci8rhhkur7NqejqItZRHBY=",
+			"path": "github.com/astaxie/beego/toolbox",
+			"revision": "80aabdd372b36b65e6e56b200cfd4ebcb444e670",
+			"revisionTime": "2019-01-08T15:54:40Z"
+		},
+		{
+			"checksumSHA1": "W7HBzu7HlF18vCfNPgax7xvHXB0=",
+			"path": "github.com/astaxie/beego/utils",
+			"revision": "80aabdd372b36b65e6e56b200cfd4ebcb444e670",
+			"revisionTime": "2019-01-08T15:54:40Z"
+		},
+		{
+			"checksumSHA1": "kfQRh4U4iBSTd0fWpilCK8HU2Hw=",
+			"path": "github.com/go-sql-driver/mysql",
+			"revision": "1b9eda25029c206f36637dde8e2acad26df99dab",
+			"revisionTime": "2019-01-27T01:11:11Z"
+		},
+		{
+			"checksumSHA1": "cIiyvAduLLFvu+tg1Qr5Jw3jeWo=",
+			"path": "github.com/jtolds/gls",
+			"revision": "b4936e06046bbecbb94cae9c18127ebe510a2cb9",
+			"revisionTime": "2018-11-10T20:28:10Z"
+		},
+		{
+			"checksumSHA1": "y685idTxBySLYWaeyUKpZs5hqck=",
+			"path": "github.com/smartystreets/assertions",
+			"revision": "b6c0e53d73045618965505ac26ff7864fe3ab2b2",
+			"revisionTime": "2019-01-16T19:17:33Z"
+		},
+		{
+			"checksumSHA1": "v6W3GIQMzr3QSXB2NtBa9X7SwiI=",
+			"path": "github.com/smartystreets/assertions/internal/go-render/render",
+			"revision": "b6c0e53d73045618965505ac26ff7864fe3ab2b2",
+			"revisionTime": "2019-01-16T19:17:33Z"
+		},
+		{
+			"checksumSHA1": "r6FauVdOTFnwYQgrKGFuWUbIAJE=",
+			"path": "github.com/smartystreets/assertions/internal/oglematchers",
+			"revision": "b6c0e53d73045618965505ac26ff7864fe3ab2b2",
+			"revisionTime": "2019-01-16T19:17:33Z"
+		},
+		{
+			"checksumSHA1": "c71WVAQlpp3r4I+BtTxRz1Cq1Lw=",
+			"path": "github.com/smartystreets/goconvey/convey",
+			"revision": "044398e4856c3a83fb98f9de0a8ed1c6495e2843",
+			"revisionTime": "2018-11-08T00:35:08Z"
+		},
+		{
+			"checksumSHA1": "6Mgn4H/4vpqYGlaIKZ0UwOmJN0E=",
+			"path": "github.com/smartystreets/goconvey/convey/gotest",
+			"revision": "044398e4856c3a83fb98f9de0a8ed1c6495e2843",
+			"revisionTime": "2018-11-08T00:35:08Z"
+		},
+		{
+			"checksumSHA1": "uTSA/KWQA01sKPYfmLyMPvXbYaA=",
+			"path": "github.com/smartystreets/goconvey/convey/reporting",
+			"revision": "044398e4856c3a83fb98f9de0a8ed1c6495e2843",
+			"revisionTime": "2018-11-08T00:35:08Z"
+		},
+		{
+			"checksumSHA1": "J6lNRPdrYhKft6S8x33K9brxyhE=",
+			"origin": "github.com/astaxie/beego/vendor/golang.org/x/crypto/acme",
+			"path": "golang.org/x/crypto/acme",
+			"revision": "80aabdd372b36b65e6e56b200cfd4ebcb444e670",
+			"revisionTime": "2019-01-08T15:54:40Z"
+		},
+		{
+			"checksumSHA1": "EFjIi/zCZ1Cte0MQtyxGCTgSzk8=",
+			"origin": "github.com/astaxie/beego/vendor/golang.org/x/crypto/acme/autocert",
+			"path": "golang.org/x/crypto/acme/autocert",
+			"revision": "80aabdd372b36b65e6e56b200cfd4ebcb444e670",
+			"revisionTime": "2019-01-08T15:54:40Z"
+		},
+		{
+			"checksumSHA1": "ZSWoOPUNRr5+3dhkLK3C4cZAQPk=",
+			"origin": "github.com/astaxie/beego/vendor/gopkg.in/yaml.v2",
+			"path": "gopkg.in/yaml.v2",
+			"revision": "80aabdd372b36b65e6e56b200cfd4ebcb444e670",
+			"revisionTime": "2019-01-08T15:54:40Z"
+		}
+	],
+	"rootPath": "github.com/flybird_blog"
+}
