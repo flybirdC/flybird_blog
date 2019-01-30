@@ -16,11 +16,11 @@
                     </div>
                     <div class="article-detail-info">
                         <span>编辑时间：{{date .post.Updated "Y-m-d H:i:s"}}</span>
-                        <span>作者：Echosong</span>
+                        <span>作者：flybird</span>
                         <span>浏览量：{{.post.Views}}</span>
                     </div>
                     <div class="article-detail-content">
-                      {{.post.Content}}
+                      {{str2html .post.Content}}
                     </div>
                 </div>
                 <!-- 评论区域 -->
