@@ -442,6 +442,7 @@ body {
 
 /*文章列表（网站首页和文章专栏共用）*/
 .article {
+
     padding: 15px;
     margin-bottom: 10px;
     background: #fff;
@@ -522,11 +523,11 @@ body {
 
 @media (min-width: 768px) {
     .article > .article-right > .article-title a {
-        font-size: 17px;
+        font-size: 20px;
     }
 
     .article > .article-right > .article-abstract {
-        font-size: 14px;
+        font-size: 20px;
         display: block;
         margin-top: 10px;
         text-indent: 2em;
@@ -553,7 +554,7 @@ body {
 
 @media (min-width: 992px) {
     .article > .article-right > .article-title a {
-        font-size: 18px;
+        font-size: 25px;
     }
 
     .icon-stick {
